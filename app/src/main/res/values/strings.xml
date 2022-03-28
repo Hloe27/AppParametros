@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppParametros</string>
+    <string name="tpNombre1">Nombre</string>
+    <string name="tpNombre2">Nombre</string>
+    <string name="boton1">Enviar</string>
+    <string name="botn2">Regresar</string>
+</resources>
